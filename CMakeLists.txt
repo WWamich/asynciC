@@ -3,7 +3,7 @@ project(untitled7)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled7
+add_executable(
         asynci.h
         asynci.c
         main.c)
